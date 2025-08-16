@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433590556232",
+    "project_id": "drivetest-sniper",
+    "storage_bucket": "drivetest-sniper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433590556232:android:76bf91b79108654898ea7d",
+        "android_client_info": {
+          "package_name": "com.example.drive_test_sniper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZc5giqaDdpqjY8EMlX55L0z6DlsxJRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
